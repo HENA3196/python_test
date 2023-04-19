@@ -1,0 +1,193 @@
+1681756213569	geckodriver	INFO	Listening on 127.0.0.1:38025
+1681756214044	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "36195" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileT3Mgfk"
+Gtk-Message: 00:00:14.061: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1681756214444	Marionette	INFO	Marionette enabled
+1681756214447	Marionette	INFO	Listening on port 37873
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:36195
+Read port: 37873
+1681756214654	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileT3Mgfk/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:36195/devtools/browser/9ba623a3-6e08-4624-ba29-a8d212e904fe
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1681756222770	Marionette	INFO	Stopped listening on port 37873
+1681756253917	geckodriver	INFO	Listening on 127.0.0.1:53015
+1681756254396	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "55941" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHGonA4"
+Gtk-Message: 00:00:54.413: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1681756254804	Marionette	INFO	Marionette enabled
+1681756254806	Marionette	INFO	Listening on port 33139
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:55941
+Read port: 33139
+1681756255003	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHGonA4/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55941/devtools/browser/eb57a89b-9cea-4c3c-91ce-9b67a8b411ff
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1681756268530	Marionette	INFO	Stopped listening on port 33139
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gimp/2.0/help /usr/share/gimp/2.0/help none bind,ro 0 0): cannot open directory "/var/lib": permission denied
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/xubuntu-docs /usr/share/xubuntu-docs none bind,ro 0 0): cannot open directory "/var/lib": permission denied
+1681791654449	geckodriver	INFO	Listening on 127.0.0.1:48677
+1681791654619	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "57877" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileiMNBly"
+Gtk-Message: 09:50:54.643: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1681791655217	Marionette	INFO	Marionette enabled
+1681791655220	Marionette	INFO	Listening on port 43685
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 43685
+WebDriver BiDi listening on ws://127.0.0.1:57877
+1681791655373	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiMNBly/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:57877/devtools/browser/532dcc41-cd41-4abb-8b0a-7529e3eec84e
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1681791658663	Marionette	INFO	Stopped listening on port 43685
+1681791987851	geckodriver	INFO	Listening on 127.0.0.1:39483
+1681791988329	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "40361" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileja2STs"
+Gtk-Message: 09:56:28.347: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1681791988743	Marionette	INFO	Marionette enabled
+1681791988745	Marionette	INFO	Listening on port 32951
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:40361
+Read port: 32951
+1681791988939	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileja2STs/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:40361/devtools/browser/fcc156d5-9685-4216-be40-47493b4657b3
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1681791992562	Marionette	INFO	Stopped listening on port 32951
+1681807711852	geckodriver	INFO	Listening on 127.0.0.1:35991
+1681807712325	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "60079" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKwZqFg"
+Gtk-Message: 14:18:32.344: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1681807712733	Marionette	INFO	Marionette enabled
+1681807712735	Marionette	INFO	Listening on port 41577
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:60079
+Read port: 41577
+1681807712933	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKwZqFg/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:60079/devtools/browser/2e7f4cf1-96ee-416d-af2f-018b2163db22
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1681807716513	Marionette	INFO	Stopped listening on port 41577
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gimp/2.0/help /usr/share/gimp/2.0/help none bind,ro 0 0): cannot open directory "/var/lib": permission denied
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/xubuntu-docs /usr/share/xubuntu-docs none bind,ro 0 0): cannot open directory "/var/lib": permission denied
+1681835035441	geckodriver	INFO	Listening on 127.0.0.1:50779
+1681835035876	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "41049" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemOQEv7"
+Gtk-Message: 21:53:55.902: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1681835036742	Marionette	INFO	Marionette enabled
+1681835036745	Marionette	INFO	Listening on port 33619
+Read port: 33619
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:41049
+1681835036896	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemOQEv7/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:41049/devtools/browser/03771c27-bbd6-4247-b607-d19c0459a582
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1681835042505	Marionette	INFO	Stopped listening on port 33619
+1681836325853	geckodriver	INFO	Listening on 127.0.0.1:37185
+1681836326331	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "54507" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileff1hej"
+Gtk-Message: 22:15:26.348: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1681836326731	Marionette	INFO	Marionette enabled
+1681836326733	Marionette	INFO	Listening on port 32817
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:54507
+Read port: 32817
+1681836326930	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileff1hej/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54507/devtools/browser/510a615d-b6cd-4923-b25d-24f8f97fdcf2
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1681836334808	Marionette	INFO	Stopped listening on port 32817
+1681836870456	geckodriver	INFO	Listening on 127.0.0.1:39123
+1681836870934	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "50293" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileujqm7G"
+Gtk-Message: 22:24:30.951: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1681836871334	Marionette	INFO	Marionette enabled
+1681836871337	Marionette	INFO	Listening on port 36753
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:50293
+Read port: 36753
+1681836871540	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileujqm7G/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:50293/devtools/browser/f2e063a9-acae-4daa-9e7c-03f475701885
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1681836878369	Marionette	INFO	Stopped listening on port 36753
+1681841190616	geckodriver	INFO	Listening on 127.0.0.1:34181
+1681841191094	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "34499" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVEv3II"
+Gtk-Message: 23:36:31.111: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1681841191498	Marionette	INFO	Marionette enabled
+1681841191501	Marionette	INFO	Listening on port 37423
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:34499
+Read port: 37423
+1681841191714	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVEv3II/search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:34499/devtools/browser/11f11dae-76c4-4568-96ac-df067c113fa0
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1681841194452	Marionette	INFO	Stopped listening on port 37423

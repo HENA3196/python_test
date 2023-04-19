@@ -1,0 +1,4 @@
+<root attr1="value1">
+  <child1 attr2="value2">This is child1</child1>
+  <child2>This is child2</child2>
+</root>
